@@ -1,0 +1,14 @@
+body{
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+}
+p{
+    margin: 10px;
+}
+#scrollbox{
+    border: solid #0565c2 1px;
+    overflow: scroll;
+    height: 765px;
+    width: 1400px;
+
+}
